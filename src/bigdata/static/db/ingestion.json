@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Mike",
+        "last": "Carter"
+      },
+      "location": {
+        "street": {
+          "number": 5957,
+          "name": "Rochestown Road"
+        },
+        "city": "Ballinasloe",
+        "state": "Louth",
+        "country": "Ireland",
+        "postcode": 19096,
+        "coordinates": {
+          "latitude": "-3.1171",
+          "longitude": "-51.1896"
+        },
+        "timezone": {
+          "offset": "-10:00",
+          "description": "Hawaii"
+        }
+      },
+      "email": "mike.carter@example.com",
+      "login": {
+        "uuid": "b219b191-c310-4e34-ba3c-f9ca22c46aa3",
+        "username": "bluepeacock946",
+        "password": "oakland",
+        "salt": "Vogc4otp",
+        "md5": "508f80641a22fb79f23146bc112160ef",
+        "sha1": "56e9b7d696df76d7c501b9e74603c875f90cda3f",
+        "sha256": "7d822395c054153eadc5e96f6c700e79dbb4b450245168056109032514c5893c"
+      },
+      "dob": {
+        "date": "1977-02-02T22:57:58.695Z",
+        "age": 48
+      },
+      "registered": {
+        "date": "2017-06-13T17:23:03.965Z",
+        "age": 7
+      },
+      "phone": "021-182-4662",
+      "cell": "081-908-6455",
+      "id": {
+        "name": "PPS",
+        "value": "7674865T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Joanna",
+        "last": "Aarum"
+      },
+      "location": {
+        "street": {
+          "number": 8394,
+          "name": "Lysebuveien"
+        },
+        "city": "Roa",
+        "state": "Troms - Romsa",
+        "country": "Norway",
+        "postcode": "5034",
+        "coordinates": {
+          "latitude": "74.1076",
+          "longitude": "-165.4806"
+        },
+        "timezone": {
+          "offset": "+4:30",
+          "description": "Kabul"
+        }
+      },
+      "email": "joanna.aarum@example.com",
+      "login": {
+        "uuid": "ca789bab-6d99-4ca7-b0ad-8adea7dcd856",
+        "username": "angryelephant986",
+        "password": "alanis",
+        "salt": "NB2W1IwA",
+        "md5": "aed098b49d93ab4bdf2a0a201c388516",
+        "sha1": "f53b575c75f26f9f20a80daf6b77e032285220a0",
+        "sha256": "56f928e1a9cf679cc879eddc347e555b431074437d6310bb8d485579da6ad39c"
+      },
+      "dob": {
+        "date": "1950-12-28T17:51:14.714Z",
+        "age": 74
+      },
+      "registered": {
+        "date": "2021-07-28T05:23:54.896Z",
+        "age": 3
+      },
+      "phone": "30090617",
+      "cell": "99194353",
+      "id": {
+        "name": "FN",
+        "value": "28125010239"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/76.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Arnav",
+        "last": "Acharya"
+      },
+      "location": {
+        "street": {
+          "number": 1970,
+          "name": "Kasba Peth"
+        },
+        "city": "Phagwara",
+        "state": "Jammu and Kashmir",
+        "country": "India",
+        "postcode": 82026,
+        "coordinates": {
+          "latitude": "-76.7011",
+          "longitude": "-165.3363"
+        },
+        "timezone": {
+          "offset": "-12:00",
+          "description": "Eniwetok, Kwajalein"
+        }
+      },
+      "email": "arnav.acharya@example.com",
+      "login": {
+        "uuid": "4f1fc510-f092-4cbf-be66-84dc88320036",
+        "username": "brownrabbit292",
+        "password": "deputy",
+        "salt": "zjATIrFR",
+        "md5": "ea9ed329c8cb5d8ec90243a592071409",
+        "sha1": "e391aefd0dd4755cd6c5b1074212e064f6bee988",
+        "sha256": "271aee8886fe03fde8f10f0930c692ef1e92715859e24a6175a5dd5b97d586fa"
+      },
+      "dob": {
+        "date": "1992-07-13T10:01:47.320Z",
+        "age": 32
+      },
+      "registered": {
+        "date": "2010-02-23T01:00:08.218Z",
+        "age": 15
+      },
+      "phone": "7107683477",
+      "cell": "8397249836",
+      "id": {
+        "name": "UIDAI",
+        "value": "917919438282"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/88.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+      },
+      "nat": "IN"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "ثنا",
+        "last": "جعفری"
+      },
+      "location": {
+        "street": {
+          "number": 2923,
+          "name": "پارک 17 شهریور"
+        },
+        "city": "زنجان",
+        "state": "قم",
+        "country": "Iran",
+        "postcode": 51225,
+        "coordinates": {
+          "latitude": "41.0499",
+          "longitude": "-34.9805"
+        },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "thn.jaafry@example.com",
+      "login": {
+        "uuid": "c626b848-b43c-43d6-a121-bad46cc66ec4",
+        "username": "silvergoose912",
+        "password": "magnolia",
+        "salt": "7G06xJGp",
+        "md5": "a36c7d523a1ec828d080b261afadaff9",
+        "sha1": "31e4d205e28999ffd5a13f8f602ff8190ccf12bf",
+        "sha256": "1b7cea1a8e57d7604368f3955cc31011c459376736a65ba9c21497a06f2b46ee"
+      },
+      "dob": {
+        "date": "2000-03-11T19:20:46.229Z",
+        "age": 24
+      },
+      "registered": {
+        "date": "2010-07-07T11:50:41.303Z",
+        "age": 14
+      },
+      "phone": "003-49394765",
+      "cell": "0928-389-2588",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+      },
+      "nat": "IR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "حسین",
+        "last": "کامروا"
+      },
+      "location": {
+        "street": {
+          "number": 9899,
+          "name": "سباری"
+        },
+        "city": "قم",
+        "state": "اصفهان",
+        "country": "Iran",
+        "postcode": 28571,
+        "coordinates": {
+          "latitude": "-2.5216",
+          "longitude": "148.8705"
+        },
+        "timezone": {
+          "offset": "-12:00",
+          "description": "Eniwetok, Kwajalein"
+        }
+      },
+      "email": "hsyn.khmrw@example.com",
+      "login": {
+        "uuid": "d5af1bf2-f76d-43d4-9a51-ab4e797f8fe6",
+        "username": "smallleopard880",
+        "password": "sinister",
+        "salt": "wBEX6MRm",
+        "md5": "2a2f57d635577614c496676611d138dc",
+        "sha1": "8db4dfc0a61aa0a8a0d1ea6352dbfccd135e06ca",
+        "sha256": "e8a10ee15bd39355bc3dfa754673b67a2c8a6329762de74e4cda2a4e326b4697"
+      },
+      "dob": {
+        "date": "1969-02-20T03:52:40.064Z",
+        "age": 56
+      },
+      "registered": {
+        "date": "2022-02-27T05:04:04.413Z",
+        "age": 3
+      },
+      "phone": "084-71967016",
+      "cell": "0997-151-1466",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+      },
+      "nat": "IR"
+    }
+  ],
+  "info": {
+    "seed": "3ddbc9e5554a0814",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}
