@@ -1,5 +1,9 @@
 import requests
 import json
+import sys
+
+# Cambiar la codificación de la salida estándar a UTF-8
+sys.stdout.reconfigure(encoding='utf-8')
 
 def obtener_datos():
     url = "https://randomuser.me/api/?results=5"
